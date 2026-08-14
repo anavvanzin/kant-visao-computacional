@@ -1,0 +1,38 @@
+{
+  "file": "corpus_consolidado.csv",
+  "rows": 76,
+  "columns": 12,
+  "overall_score": 81.22,
+  "grade": "B",
+  "dimensions": {
+    "missing_values": {"score": 99.78, "issues": [{"column": "year", "missing_count": 2, "missing_pct": 2.63}]},
+    "duplicates": {"score": 100.0, "issues": []},
+    "type_consistency": {"score": 100.0, "issues": []},
+    "value_range": {"score": 0.0, "issues": [
+      {"column": "year", "outlier_count": 5, "outlier_pct": 6.76, "range": {"min": 1891.0, "max": 2026.0}, "iqr_bounds": {"lower": 1984.375, "upper": 2047.375}},
+      {"column": "citations", "outlier_count": 12, "outlier_pct": 15.79, "range": {"min": 0.0, "max": 31047.0}, "iqr_bounds": {"lower": -150.375, "upper": 258.625}}
+    ]},
+    "format_compliance": {"score": 100.0, "issues": []},
+    "uniqueness": {"score": 100.0, "issues": []},
+    "whitespace": {"score": 100.0, "issues": []},
+    "constant_columns": {"score": 75.0, "issues": [
+      {"column": "pdf_links", "unique_values": 1, "constant_value": "[]"},
+      {"column": "total_results", "unique_values": 1, "constant_value": "unknown"},
+      {"column": "search_time", "unique_values": 1, "constant_value": "unknown"}
+    ]},
+    "distribution_skew": {"score": 0.0, "issues": [
+      {"column": "year", "skewness": -3.4728, "direction": "left"},
+      {"column": "citations", "skewness": 8.4781, "direction": "right"}
+    ]},
+    "column_naming": {"score": 100.0, "issues": []},
+    "cardinality": {"score": 50.0, "issues": [
+      {"column": "title", "unique_values": 76, "cardinality_ratio": 1.0},
+      {"column": "authors", "unique_values": 73, "cardinality_ratio": 0.9605},
+      {"column": "abstract", "unique_values": 76, "cardinality_ratio": 1.0},
+      {"column": "result_id", "unique_values": 76, "cardinality_ratio": 1.0},
+      {"column": "publication_info", "unique_values": 76, "cardinality_ratio": 1.0},
+      {"column": "url", "unique_values": 76, "cardinality_ratio": 1.0}
+    ]},
+    "cross_column": {"score": 100.0, "issues": []}
+  }
+}

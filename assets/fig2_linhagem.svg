@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1101.51pt" height="547.50751pt" viewBox="0 0 1101.51 547.50751" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-14T13:44:18.600464</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 547.50751 
+L 1101.51 547.50751 
+L 1101.51 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 7.2 300.56516 
+L 1094.31 300.56516 
+" clip-path="url(#p6f709c1375)" style="fill: none; stroke: #555555; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 68.569113 300.56516 
+L 68.569113 250.423169 
+" clip-path="url(#p6f709c1375)" style="fill: none; stroke: #1f4e79; stroke-opacity: 0.6; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 156.239274 300.56516 
+L 156.239274 350.707151 
+" clip-path="url(#p6f709c1375)" style="fill: none; stroke: #1f4e79; stroke-opacity: 0.6; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 243.909435 300.56516 
+L 243.909435 250.423169 
+" clip-path="url(#p6f709c1375)" style="fill: none; stroke: #8c2f39; stroke-opacity: 0.6; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 331.579597 300.56516 
+L 331.579597 350.707151 
+" clip-path="url(#p6f709c1375)" style="fill: none; stroke: #8c2f39; stroke-opacity: 0.6; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 419.249758 300.56516 
+L 419.249758 205.295377 
+" clip-path="url(#p6f709c1375)" style="fill: none; stroke: #0e7c7b; stroke-opacity: 0.6; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 506.919919 300.56516 
+L 506.919919 395.834943 
+" clip-path="url(#p6f709c1375)" style="fill: none; stroke: #0e7c7b; stroke-opacity: 0.6; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 594.590081 300.56516 
+L 594.590081 250.423169 
+" clip-path="url(#p6f709c1375)" style="fill: none; stroke: #0e7c7b; stroke-opacity: 0.6; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 682.260242 300.56516 
+L 682.260242 350.707151 
+" clip-path="url(#p6f709c1375)" style="fill: none; stroke: #1f4e79; stroke-opacity: 0.6; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 769.930403 300.56516 
+L 769.930403 205.295377 
+" clip-path="url(#p6f709c1375)" style="fill: none; stroke: #0e7c7b; stroke-opacity: 0.6; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 857.600565 300.56516 
+L 857.600565 395.834943 
+" clip-path="url(#p6f709c1375)" style="fill: none; stroke: #1f4e79; stroke-opacity: 0.6; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 945.270726 300.56516 
+L 945.270726 250.423169 
+" clip-path="url(#p6f709c1375)" style="fill: none; stroke: #c8a24b; stroke-opacity: 0.6; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 1032.940887 300.56516 
+L 1032.940887 350.707151 
+" clip-path="url(#p6f709c1375)" style="fill: none; stroke: #1f4e79; stroke-opacity: 0.6; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m00c1f00043" d="M 0 5 
+C 1.326016 5 2.597899 4.473168 3.535534 3.535534 
+C 4.473168 2.597899 5 1.326016 5 0 
+C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534 
+C 2.597899 -4.473168 1.326016 -5 0 -5 
+C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534 
+C -4.473168 -2.597899 -5 -1.326016 -5 0 
+C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534 
+C -2.597899 4.473168 -1.326016 5 0 5 
+z
+" style="stroke: #ffffff; stroke-width: 1.4"/>
+    </defs>
+    <g clip-path="url(#p6f709c1375)">
+     <use xlink:href="#m00c1f00043" x="68.569113" y="300.56516" style="fill: #1f4e79; stroke: #ffffff; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: middle; fill: #1f4e79" x="68.569113" y="241.323602" transform="rotate(-0 68.569113 241.323602)">1781</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(34.61555 206.982272)">Kant: Crítica da</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(43.948363 217.505009)">Razão Pura</text>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p6f709c1375)">
+     <use xlink:href="#m00c1f00043" x="156.239274" y="300.56516" style="fill: #1f4e79; stroke: #ffffff; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: middle; fill: #1f4e79" x="156.239274" y="365.325468" transform="rotate(-0 156.239274 365.325468)">1867</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(94.670212 388.631686)">Helmholtz: percepção como</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(100.697524 399.154423)">“inferência inconsciente”</text>
+   </g>
+   <g id="PathCollection_3">
+    <defs>
+     <path id="me168e02f25" d="M 0 5 
+C 1.326016 5 2.597899 4.473168 3.535534 3.535534 
+C 4.473168 2.597899 5 1.326016 5 0 
+C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534 
+C 2.597899 -4.473168 1.326016 -5 0 -5 
+C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534 
+C -4.473168 -2.597899 -5 -1.326016 -5 0 
+C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534 
+C -2.597899 4.473168 -1.326016 5 0 5 
+z
+" style="stroke: #ffffff; stroke-width: 1.4"/>
+    </defs>
+    <g clip-path="url(#p6f709c1375)">
+     <use xlink:href="#me168e02f25" x="243.909435" y="300.56516" style="fill: #8c2f39; stroke: #ffffff; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: middle; fill: #8c2f39" x="243.909435" y="241.323602" transform="rotate(-0 243.909435 241.323602)">1972</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(212.429498 206.982272)">Dreyfus: What</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(199.375248 217.505009)">Computers Can't Do</text>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#p6f709c1375)">
+     <use xlink:href="#me168e02f25" x="331.579597" y="300.56516" style="fill: #8c2f39; stroke: #ffffff; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: middle; fill: #8c2f39" x="331.579597" y="365.325468" transform="rotate(-0 331.579597 365.325468)">1979</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(266.047784 388.833811)">Gibson: abordagem ecológica</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(290.955222 399.551386)">(percepção direta)</text>
+   </g>
+   <g id="PathCollection_5">
+    <defs>
+     <path id="mc46e8c07c9" d="M 0 5 
+C 1.326016 5 2.597899 4.473168 3.535534 3.535534 
+C 4.473168 2.597899 5 1.326016 5 0 
+C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534 
+C 2.597899 -4.473168 1.326016 -5 0 -5 
+C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534 
+C -4.473168 -2.597899 -5 -1.326016 -5 0 
+C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534 
+C -2.597899 4.473168 -1.326016 5 0 5 
+z
+" style="stroke: #ffffff; stroke-width: 1.4"/>
+    </defs>
+    <g clip-path="url(#p6f709c1375)">
+     <use xlink:href="#mc46e8c07c9" x="419.249758" y="300.56516" style="fill: #0e7c7b; stroke: #ffffff; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: middle; fill: #0e7c7b" x="419.249758" y="196.19581" transform="rotate(-0 419.249758 196.19581)">1982</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(373.235383 161.659642)">Marr: Vision — teoria</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(367.014196 172.377217)">computacional da visão</text>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#p6f709c1375)">
+     <use xlink:href="#mc46e8c07c9" x="506.919919" y="300.56516" style="fill: #0e7c7b; stroke: #ffffff; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: middle; fill: #0e7c7b" x="506.919919" y="410.45326" transform="rotate(-0 506.919919 410.45326)">1998</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(479.160044 433.609603)">LeCun et al.:</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(489.726919 444.132341)">LeNet-5</text>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#p6f709c1375)">
+     <use xlink:href="#mc46e8c07c9" x="594.590081" y="300.56516" style="fill: #0e7c7b; stroke: #ffffff; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: middle; fill: #0e7c7b" x="594.590081" y="241.323602" transform="rotate(-0 594.590081 241.323602)">2012</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(534.297706 206.982272)">AlexNet vence o ImageNet;</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(548.744831 217.505009)">era do deep learning</text>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#p6f709c1375)">
+     <use xlink:href="#m00c1f00043" x="682.260242" y="300.56516" style="fill: #1f4e79; stroke: #ffffff; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: middle; fill: #1f4e79" x="682.260242" y="365.325468" transform="rotate(-0 682.260242 365.325468)">2016</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(612.716867 388.481811)">Swanson: predictive processing</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(639.299054 399.004548)">tem raízes em Kant</text>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#p6f709c1375)">
+     <use xlink:href="#mc46e8c07c9" x="769.930403" y="300.56516" style="fill: #0e7c7b; stroke: #ffffff; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: middle; fill: #0e7c7b" x="769.930403" y="196.19581" transform="rotate(-0 769.930403 196.19581)">2018</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(720.882091 161.854479)">Battaglia et al.: vieses</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(724.734153 172.377217)">indutivos relacionais</text>
+   </g>
+   <g id="PathCollection_10">
+    <g clip-path="url(#p6f709c1375)">
+     <use xlink:href="#m00c1f00043" x="857.600565" y="300.56516" style="fill: #1f4e79; stroke: #ffffff; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: middle; fill: #1f4e79" x="857.600565" y="410.45326" transform="rotate(-0 857.600565 410.45326)">2022</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(800.243815 433.609603)">Kim &amp; Schönecker (orgs.):</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(791.40944 444.132341)">Kant and Artificial Intelligence</text>
+   </g>
+   <g id="PathCollection_11">
+    <defs>
+     <path id="me06a0d86cc" d="M 0 5 
+C 1.326016 5 2.597899 4.473168 3.535534 3.535534 
+C 4.473168 2.597899 5 1.326016 5 0 
+C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534 
+C 2.597899 -4.473168 1.326016 -5 0 -5 
+C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534 
+C -4.473168 -2.597899 -5 -1.326016 -5 0 
+C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534 
+C -2.597899 4.473168 -1.326016 5 0 5 
+z
+" style="stroke: #ffffff; stroke-width: 1.4"/>
+    </defs>
+    <g clip-path="url(#p6f709c1375)">
+     <use xlink:href="#me06a0d86cc" x="945.270726" y="300.56516" style="fill: #c8a24b; stroke: #ffffff; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: middle; fill: #c8a24b" x="945.270726" y="241.323602" transform="rotate(-0 945.270726 241.323602)">2024</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(876.192101 206.524672)">Frisch et al.: IA neuro-simbólica</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(889.247726 217.505009)">kantiana aplicada à visão</text>
+   </g>
+   <g id="PathCollection_12">
+    <g clip-path="url(#p6f709c1375)">
+     <use xlink:href="#m00c1f00043" x="1032.940887" y="300.56516" style="fill: #1f4e79; stroke: #ffffff; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: middle; fill: #1f4e79" x="1032.940887" y="365.325468" transform="rotate(-0 1032.940887 365.325468)">2026</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(987.106637 388.481811)">Hui: Kant Machine —</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; fill: #222222" transform="translate(979.217575 399.462148)">filosofia crítica após a IA</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_2">
+     <path d="M 273.202109 534.531806 
+L 292.202109 534.531806 
+L 292.202109 527.881806 
+L 273.202109 527.881806 
+z
+" style="fill: #1f4e79; stroke: #1f4e79; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_25">
+     <text style="font-size: 9.5px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: start" x="299.802109" y="534.531806" transform="rotate(-0 299.802109 534.531806)">Filosofia / epistemologia</text>
+    </g>
+    <g id="patch_3">
+     <path d="M 433.519062 534.531806 
+L 452.519062 534.531806 
+L 452.519062 527.881806 
+L 433.519062 527.881806 
+z
+" style="fill: #0e7c7b; stroke: #0e7c7b; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_26">
+     <text style="font-size: 9.5px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: start" x="460.119062" y="534.531806" transform="rotate(-0 460.119062 534.531806)">Visão computacional / IA</text>
+    </g>
+    <g id="patch_4">
+     <path d="M 596.230312 534.531806 
+L 615.230312 534.531806 
+L 615.230312 527.881806 
+L 596.230312 527.881806 
+z
+" style="fill: #8c2f39; stroke: #8c2f39; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_27">
+     <text style="font-size: 9.5px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: start" x="622.830312" y="534.531806" transform="rotate(-0 622.830312 534.531806)">Tradições críticas</text>
+    </g>
+    <g id="patch_5">
+     <path d="M 723.604531 534.531806 
+L 742.604531 534.531806 
+L 742.604531 527.881806 
+L 723.604531 527.881806 
+z
+" style="fill: #c8a24b; stroke: #c8a24b; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_28">
+     <text style="font-size: 9.5px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'; text-anchor: start" x="750.204531" y="534.531806" transform="rotate(-0 750.204531 534.531806)">Síntese aplicada</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_29">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'" transform="translate(196.224219 17.597969)">Figura 2 — Linhagem intelectual: da Crítica da Razão Pura à visão computacional contemporânea</text>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'STIXSizeTwoSym', 'Noto Sans Hanifi Rohingya', 'Noto Sans CJK JP', 'Noto Serif CJK JP', 'Noto Sans Hanunoo', 'Unifont-JP'" transform="translate(390.320313 32.537)">(eixo do tempo não linear, para legibilidade)</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6f709c1375">
+   <rect x="7.2" y="69.912" width="1087.11" height="461.30632"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -114,7 +114,16 @@ Poggio, 3.327), *Hierarchical convolutional features for visual tracking*
    repositório) não têm campanha própria — verificar se `r7a` os cobre ao
    redigir; provável necessidade de complemento.
 3. As **2 obras sem ano** precisam do ano resolvido na fonte primária antes de
-   citação em ABNT.
+   citação em ABNT. (Resolvidos na verificação de fontes do relatório: o
+   working paper de Zhang no SSRN é de 2024; "Inductive Biases in Neural
+   Networks" é material autopublicado sem dados bibliográficos confiáveis.)
+4. **Um ano errado de extração** (não corrigido no CSV por não ser defeito
+   mecânico de sintaxe): "Active perception and representation for robotic
+   manipulation" (Zaky et al.) consta com `year = 2003.0`, mas é o preprint
+   arXiv:2003.06734, de **2020** — o extrator tomou o prefixo do identificador
+   arXiv por ano. Afeta a contagem por década (2000: 9→8; 2020: 32→33) e
+   qualquer citação; a figura bibliométrica reflete a coluna como está, com
+   esta ressalva.
 
 ## Recomendações
 
